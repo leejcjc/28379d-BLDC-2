@@ -1,4 +1,4 @@
-六步换相双闭环
+六步换相双闭环  BLDC  野火
 
 电机：<img width="1024" height="1070" alt="昊极盘式无刷直流电机参数" src="https://github.com/user-attachments/assets/94f1c943-48eb-4951-99fe-040d88ba913c" />
 
