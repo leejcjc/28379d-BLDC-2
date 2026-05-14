@@ -1,7 +1,7 @@
 # FIXED
 
 3.device/source/xbar.obj: ../3.device/source/xbar.c
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/xbar.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/xbar.h
 3.device/source/xbar.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stdbool.h
 3.device/source/xbar.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/_ti_config.h
 3.device/source/xbar.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/linkage.h
@@ -13,19 +13,19 @@
 3.device/source/xbar.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_types.h
 3.device/source/xbar.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_stdint.h
 3.device/source/xbar.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/sys/_stdint.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_clbxbar.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_epwmxbar.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_inputxbar.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_outputxbar.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_xbar.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_memmap.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_types.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/cpu.h
-3.device/source/xbar.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/debug.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_clbxbar.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_epwmxbar.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_inputxbar.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_outputxbar.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_xbar.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_memmap.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_types.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/cpu.h
+3.device/source/xbar.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/debug.h
 
 ../3.device/source/xbar.c:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/xbar.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/xbar.h:
 
 D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stdbool.h:
 
@@ -49,21 +49,21 @@ D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_stdint.h:
 
 D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/sys/_stdint.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_clbxbar.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_clbxbar.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_epwmxbar.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_epwmxbar.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_inputxbar.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_inputxbar.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_outputxbar.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_outputxbar.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_xbar.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_xbar.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_memmap.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_memmap.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_types.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_types.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/cpu.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/cpu.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/debug.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/debug.h:
 

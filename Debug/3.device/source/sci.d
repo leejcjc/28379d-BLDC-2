@@ -1,7 +1,7 @@
 # FIXED
 
 3.device/source/sci.obj: ../3.device/source/sci.c
-3.device/source/sci.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/sci.h
+3.device/source/sci.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/sci.h
 3.device/source/sci.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stdbool.h
 3.device/source/sci.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/_ti_config.h
 3.device/source/sci.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/linkage.h
@@ -13,14 +13,14 @@
 3.device/source/sci.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_types.h
 3.device/source/sci.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_stdint.h
 3.device/source/sci.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/sys/_stdint.h
-3.device/source/sci.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_memmap.h
-3.device/source/sci.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_sci.h
-3.device/source/sci.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_types.h
-3.device/source/sci.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/debug.h
+3.device/source/sci.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_memmap.h
+3.device/source/sci.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_sci.h
+3.device/source/sci.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_types.h
+3.device/source/sci.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/debug.h
 
 ../3.device/source/sci.c:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/sci.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/sci.h:
 
 D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stdbool.h:
 
@@ -44,11 +44,11 @@ D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_stdint.h:
 
 D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/sys/_stdint.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_memmap.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_memmap.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_sci.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_sci.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_types.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_types.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/debug.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/debug.h:
 

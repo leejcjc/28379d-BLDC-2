@@ -12,12 +12,12 @@
 3.device/source/upp.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_types.h
 3.device/source/upp.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_stdint.h
 3.device/source/upp.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/sys/_stdint.h
-3.device/source/upp.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/upp.h
-3.device/source/upp.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_memmap.h
-3.device/source/upp.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_types.h
-3.device/source/upp.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_upp.h
-3.device/source/upp.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/cpu.h
-3.device/source/upp.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/debug.h
+3.device/source/upp.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/upp.h
+3.device/source/upp.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_memmap.h
+3.device/source/upp.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_types.h
+3.device/source/upp.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_upp.h
+3.device/source/upp.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/cpu.h
+3.device/source/upp.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/debug.h
 
 ../3.device/source/upp.c:
 
@@ -43,15 +43,15 @@ D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/machine/_stdint.h:
 
 D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/sys/_stdint.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/upp.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/upp.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_memmap.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_memmap.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_types.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_types.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/inc/hw_upp.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/inc/hw_upp.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/cpu.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/cpu.h:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/debug.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/debug.h:
 

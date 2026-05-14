@@ -1,7 +1,7 @@
 # FIXED
 
 3.device/source/version.obj: ../3.device/source/version.c
-3.device/source/version.obj: D:/1-ti/workspace/28379d-BLDC-2/3.device/include/version.h
+3.device/source/version.obj: D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/version.h
 3.device/source/version.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stdint.h
 3.device/source/version.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/_ti_config.h
 3.device/source/version.obj: D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/linkage.h
@@ -15,7 +15,7 @@
 
 ../3.device/source/version.c:
 
-D:/1-ti/workspace/28379d-BLDC-2/3.device/include/version.h:
+D:/1-ti/workspace/28379d_BLDC_six-step/3.device/include/version.h:
 
 D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stdint.h:
 

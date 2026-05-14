@@ -82,8 +82,8 @@ ORDERED_OBJS += \
 "../1.cmd/F2837xD_Headers_nonBIOS_cpu1.cmd" \
 $(GEN_CMDS__FLAG) \
 -llibc.a \
--l"D:/1-ti/workspace/28379d-BLDC-2/2.math_lib/rts2800_fpu32_fast_supplement_eabi.lib" \
--l"D:/1-ti/workspace/28379d-BLDC-2/2.math_lib/rts2800_fpu32_eabi.lib" \
+-l"D:/1-ti/workspace/28379d_BLDC_six-step/2.math_lib/rts2800_fpu32_fast_supplement_eabi.lib" \
+-l"D:/1-ti/workspace/28379d_BLDC_six-step/2.math_lib/rts2800_fpu32_eabi.lib" \
 
 -include ../makefile.init
 
@@ -200,21 +200,21 @@ endif
 
 # Add inputs and outputs from these tool invocations to the build variables 
 EXE_OUTPUTS += \
-28379d-BLDC-2.out 
+28379d_BLDC_six-step.out 
 
 EXE_OUTPUTS__QUOTED += \
-"28379d-BLDC-2.out" 
+"28379d_BLDC_six-step.out" 
 
 
 # All Target
 all: $(OBJS) $(CMD_SRCS) $(LIB_SRCS) $(GEN_CMDS)
-	@$(MAKE) --no-print-directory -Onone "28379d-BLDC-2.out"
+	@$(MAKE) --no-print-directory -Onone "28379d_BLDC_six-step.out"
 
 # Tool invocations
-28379d-BLDC-2.out: $(OBJS) $(CMD_SRCS) $(LIB_SRCS) $(GEN_CMDS)
+28379d_BLDC_six-step.out: $(OBJS) $(CMD_SRCS) $(LIB_SRCS) $(GEN_CMDS)
 	@echo 'Building target: "$@"'
 	@echo 'Invoking: C2000 Linker'
-	"D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --cla_support=cla1 --float_support=fpu32 --tmu_support=tmu0 --vcu_support=vcu2 --define=CPU1 --define=_LAUNCHXL_F28379D -g --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"28379d-BLDC-2.map" --stack_size=0x200 --warn_sections -i"D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/lib" -i"D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --xml_link_info="28379d-BLDC-2_linkInfo.xml" --rom_model -o "28379d-BLDC-2.out" $(ORDERED_OBJS)
+	"D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --cla_support=cla1 --float_support=fpu32 --tmu_support=tmu0 --vcu_support=vcu2 --define=CPU1 --define=_LAUNCHXL_F28379D -g --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"28379d_BLDC_six-step.map" --stack_size=0x200 --warn_sections -i"D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/lib" -i"D:/1-ti/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --xml_link_info="28379d_BLDC_six-step_linkInfo.xml" --rom_model -o "28379d_BLDC_six-step.out" $(ORDERED_OBJS)
 	@echo 'Finished building target: "$@"'
 	@echo ' '
 
